@@ -8,3 +8,5 @@ Tech Stack : React JS, Redux, Express, MongoDB(Cloud Atlas free tier), Material-
 
 Client side Code is deployed through Netlify.
 Server side code is deployed through Heroku.
+
+2023 XYZ, Inc.
